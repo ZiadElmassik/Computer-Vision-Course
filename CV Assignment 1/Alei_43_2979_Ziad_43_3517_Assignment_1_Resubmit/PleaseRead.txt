@@ -1,0 +1,4 @@
+Explanations on how methods work are present in the form of comments in each method.
+
+Comments on image before and after quantization are also present in the form of comments,
+found at each image representation.
